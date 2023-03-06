@@ -1,8 +1,8 @@
-# SAP Community Developer Challenge - Exploratory Data Analysis with SAP HANA and Python
+# SAP Community Developer Challenge: Exploratory Data Analysis with SAP HANA and Python
 
-This repository is the starting point for the SAP Community Code Challenge for Cloud Native (see [SAP Community Application Development thread](...) and [corresponding blog post](...)). 
+This repository is the starting point for the SAP Community Code Challenge for Exploratory Data Analysis (see [SAP Community Application Development thread](...) and [corresponding blog post](...)). 
 
-The goal for this month's Developer Challenge is to help you get started with fundamentals of the Python machine learning client for SAP HANA.
+The goal for this month's Developer Challenge is to help you get started with fundamentals of the [Python machine learning client for SAP HANA](https://help.sap.com/doc/cd94b08fe2e041c2ba778374572ddba9/2022_4_QRC/en-US/hana_ml.html).
 
 ## Participation
 
@@ -10,11 +10,13 @@ In order to complete each of the challenges, you need to:
 
 1. Look into the [Challenges](challenges.md) to see what the challenge is each week.
 2. Depending on the challenge, you may need to submit information on the [SAP Community Application Development thread](https://groups.community.sap.com/t5/application-development/sap-community-code-challenge-let-s-set-sail-for-cloud-native/td-p/5748).
+3. You can join the challenge and submit your solutions during any time, but you need to complete previous weeks if not done yet.
 
 ## Setup for the challenge
 
 To be able to take part in this challenge, it's essential that you complete the following steps to satisfy [requirements](#requirements):
 
+### Software setup
 1. [Setup your SAP HANA database in SAP HANA Cloud trial](https://developers.sap.com/group.hana-cloud-get-started-1-trial.html). Please note that it is recommended to use a **Trial** and not **Free Tier** or your organization's account.
 1. Get [SAP HANA Client installed on your local machine](https://developers.sap.com/tutorials/hana-clients-install.html).
 1. Get [JupyterLabs](https://jupyterlab.readthedocs.io/en/stable/getting_started/installation.html), or other environment where you can work with Jupyter notebooks (`.ipynb` files) using Python. There are many possible approaches for that.
@@ -41,7 +43,7 @@ There is quite a lot to digest when working in the world of Data Science. If you
 
 ...
 
-These resources may also be helpful for a broader overview of capabilities:
+These resources may also be helpful for a broader overview of capabilities of the Python machine learning client for SAP HANA:
 * Devtoerfest 2022 session ["Build your Machine Learning Scenario for your SAP HANA Cloud application from Python"](https://www.youtube.com/watch?v=CX38-95uBtc&t=138s&ab_channel=SAPDevelopers)
 * SAP TechEd 2020 session ["Translytical Data Processing with SAP HANA Cloud"](https://youtu.be/fSiVmL4S00w)
 
