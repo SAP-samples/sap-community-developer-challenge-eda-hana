@@ -1,41 +1,64 @@
-# SAP-samples/repository-template
-This default template for SAP Samples repositories includes files for README, LICENSE, and .reuse/dep5. All repositories on github.com/SAP-samples will be created based on this template.
+# SAP Community Developer Challenge - Exploratory Data Analysis with SAP HANA and Python
 
-# Containing Files
+This repository is the starting point for the SAP Community Code Challenge for Cloud Native (see [SAP Community Application Development thread](...) and [corresponding blog post](...)). 
 
-1. The LICENSE file:
-In most cases, the license for SAP sample projects is `Apache 2.0`.
+The goal for this month's Developer Challenge is to help you get started with fundamentals of the Python machine learning client for SAP HANA.
 
-2. The .reuse/dep5 file: 
-The [Reuse Tool](https://reuse.software/) must be used for your samples project. You can find the .reuse/dep5 in the project initial. Please replace the parts inside the single angle quotation marks < > by the specific information for your repository.
+## Participation
 
-3. The README.md file (this file):
-Please edit this file as it is the primary description file for your project. You can find some placeholder titles for sections below.
+In order to complete each of the challenges, you need to:
 
-# [Title]
-<!-- Please include descriptive title -->
+1. Look into the [Challenges](challenges.md) to see what the challenge is each week.
+2. Depending on the challenge, you may need to submit information on the [SAP Community Application Development thread](https://groups.community.sap.com/t5/application-development/sap-community-code-challenge-let-s-set-sail-for-cloud-native/td-p/5748).
 
-<!--- Register repository https://api.reuse.software/register, then add REUSE badge:
-[![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/REPO-NAME)](https://api.reuse.software/info/github.com/SAP-samples/REPO-NAME)
--->
+## Setup for the challenge
 
-## Description
-<!-- Please include SEO-friendly description -->
+To be able to take part in this challenge, it's essential that you complete the following steps to satisfy [requirements](#requirements):
+
+1. [Setup your SAP HANA database in SAP HANA Cloud trial](https://developers.sap.com/group.hana-cloud-get-started-1-trial.html). Please note that it is recommended to use a **Trial** and not **Free Tier** or your organization's account.
+1. Get [SAP HANA Client installed on your local machine](https://developers.sap.com/tutorials/hana-clients-install.html).
+1. Get [JupyterLabs](https://jupyterlab.readthedocs.io/en/stable/getting_started/installation.html), or other environment where you can work with Jupyter notebooks (`.ipynb` files) using Python. There are many possible approaches for that.
+   1. Here is one of the recommended sequence of [steps using miniconda](setup/miniconda.md).
+   2. Alternatively -- if you have time and skills -- you can explore using [SAP Business Application Studio with Jupyter](https://blogs.sap.com/2023/02/08/running-a-jupyter-notebook-in-sap-business-application-studio/), or using [Binder](https://mybinder.org/) with this GitHub repository.
+1. Get [Python machine learning client for SAP HANA (hana-ml)](https://help.sap.com/doc/cd94b08fe2e041c2ba778374572ddba9/latest/en-US/Installation.html)
 
 ## Requirements
 
+* A database user in SAP HANA database. The user should have required roles.
+* In your client environment:
+   * SAP HANA Client
+   * JupyterLabs
+   * Python 3.7 - 3.10
+   * Python machine learning client for SAP HANA
+
 ## Download and Installation
 
+You can fork or clone this repository.
+
+## Recommended Learning
+
+There is quite a lot to digest when working in the world of Data Science. If you need an introduction ... you should check out ....
+
+...
+
+These resources may also be helpful for a broader overview of capabilities:
+* Devtoerfest 2022 session ["Build your Machine Learning Scenario for your SAP HANA Cloud application from Python"](https://www.youtube.com/watch?v=CX38-95uBtc&t=138s&ab_channel=SAPDevelopers)
+* SAP TechEd 2020 session ["Translytical Data Processing with SAP HANA Cloud"](https://youtu.be/fSiVmL4S00w)
+
 ## Known Issues
-<!-- You may simply state "No known issues. -->
+
+No known issues.
 
 ## How to obtain support
-[Create an issue](https://github.com/SAP-samples/<repository-name>/issues) in this repository if you find a bug or have questions about the content.
- 
-For additional support, [ask a question in SAP Community](https://answers.sap.com/questions/ask.html).
+
+[Create an issue]() in this repository if you find a bug or have questions about the content.
+
+For additional support, [ask a question in SAP Community](https://answers.sap.com/questions/ask.html?primaryTagId=73554900100700000996).
 
 ## Contributing
+
 If you wish to contribute code, offer fixes or improvements, please send a pull request. Due to legal reasons, contributors will be asked to accept a DCO when they create the first pull request to this project. This happens in an automated fashion during the submission process. SAP uses [the standard DCO text of the Linux Foundation](https://developercertificate.org/).
 
 ## License
+
 Copyright (c) 2023 SAP SE or an SAP affiliate company. All rights reserved. This project is licensed under the Apache Software License, version 2.0 except as noted otherwise in the [LICENSE](LICENSE) file.
