@@ -1,6 +1,6 @@
 # SAP Community Developer Challenge: Exploratory Data Analysis with SAP HANA and Python
 
-This repository is a starting point of the **SAP Community Code Challenge for Exploratory Data Analysis** (see [SAP Community Application Development thread](...) and [corresponding blog post](...)).
+This repository is a starting point of the **SAP Community Code Challenge for Exploratory Data Analysis** (on March 8th see SAP Community Application Development thread and a corresponding blog post).
 
 The goal for this month's Developer Challenge is to help you getting started with fundamentals of the [Python machine learning client for SAP HANA](https://help.sap.com/doc/cd94b08fe2e041c2ba778374572ddba9/2022_4_QRC/en-US/hana_ml.html): DataFrames and EDA Visualizations.
 
@@ -82,7 +82,7 @@ No known issues.
 
 ## How to obtain support
 
-[Create an issue]() in this repository if you find a bug or have questions about the content.
+[Create an issue](https://github.com/SAP-samples/sap-community-developer-challenge-eda-hana/issues) in this repository, if you find a bug or have questions about the content.
 
 For additional support, [ask a question in SAP Community](https://answers.sap.com/questions/ask.html?primaryTagId=73554900100700000996).
 
