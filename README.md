@@ -18,12 +18,12 @@ To be able to take part in this challenge, it's essential that you complete the 
 
 ### Software setup
 1. [Setup your SAP HANA database in SAP HANA Cloud trial](https://developers.sap.com/group.hana-cloud-get-started-1-trial.html). 
-   1. Please note that it is recommended to use a **Trial** of SAP Business Technology Platform (aka SAP BTP), and not a **Free Tier** or your organization's account.
+   * Please note that it is recommended to use a **Trial** of SAP Business Technology Platform (aka SAP BTP), and not a **Free Tier** or your organization's account.
 1. Get [SAP HANA Client installed on your local machine](https://developers.sap.com/tutorials/hana-clients-install.html).
-   1. If you are new to SAP HANA Client utilities, like `hdbsql` and `hdbuserstore`, then please check the tutorial ["Create a User, Tables and Import Data Using SAP HANA HDBSQL"](https://developers.sap.com/tutorials/hana-clients-hdbsql.html).
+   * If you are new to SAP HANA Client utilities, like `hdbsql` and `hdbuserstore`, then please check the tutorial ["Create a User, Tables and Import Data Using SAP HANA HDBSQL"](https://developers.sap.com/tutorials/hana-clients-hdbsql.html).
 1. Get [JupyterLabs](https://jupyterlab.readthedocs.io/en/stable/getting_started/installation.html), or other environment where you can work with Jupyter notebooks (`.ipynb` files) using Python. There are many possible approaches for that.
-   1. Here is one of the recommended sequence of [steps using miniconda](setup/miniconda.md).
-   2. Alternatively -- if you have time and skills -- you can explore using [SAP Business Application Studio with Jupyter](https://blogs.sap.com/2023/02/08/running-a-jupyter-notebook-in-sap-business-application-studio/), or using [Binder](https://mybinder.org/) with this GitHub repository.
+   * Here is one of the recommended sequence of [steps using miniconda](setup/miniconda.md).
+   * Alternatively -- if you have time and skills -- you can explore using [SAP Business Application Studio with Jupyter](https://blogs.sap.com/2023/02/08/running-a-jupyter-notebook-in-sap-business-application-studio/), or using [Binder](https://mybinder.org/) with this GitHub repository.
 1. Get [Python machine learning client for SAP HANA (hana-ml)](https://help.sap.com/doc/cd94b08fe2e041c2ba778374572ddba9/latest/en-US/Installation.html)
 
 ### Security setup
@@ -31,7 +31,7 @@ We suggest you create a separate database user -- in our examples `DevChallenger
 
 1. In your SAP HANA database use an admin account to create a database user and assign a required role to it.
 
-   Below are required SQL statements, with more explanation about how to execute them available here.
+   Below are required SQL statements, with more explanation about how to execute them available [here](setup/DevChallenger.md).
 
    ```SQL
    CREATE USER DevChallenger 
