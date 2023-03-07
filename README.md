@@ -31,7 +31,7 @@ We suggest you create a separate database user -- in our examples `DevChallenger
 
 1. In your SAP HANA database use an admin account to create a database user and assign a required role to it.
 
-   Below are required SQL statements, with more explanationhow to execute them available here.
+   Below are required SQL statements, with more explanation about how to execute them available here.
 
    ```SQL
    CREATE USER DevChallenger 
