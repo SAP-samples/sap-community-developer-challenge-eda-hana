@@ -1,10 +1,10 @@
-## Create `DevChallenger` user in your SAP HANA db instance
+## Create `DevChallenger` user in your SAP HANA db instance in SAP HANA Cloud Trial
 
-### ... using `dhbsql`
+### ... using `hdbsql`
 
 1. Connect as an administrator, here `DBAdmin` user
     ```Shell
-    hdbsql -u DBAdmin -n <yourinstanceid>.hana.trial-us10.hanacloud.ondemand.com:443
+    hdbsql -u DBAdmin -n <yourinstanceSQLendpointhost>:<yourinstanceSQLendpointport>
     ```
 
 2. Switch the input to multiline SQL statements separated with `;` by default.

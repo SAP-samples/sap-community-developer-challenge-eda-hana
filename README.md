@@ -47,7 +47,11 @@ We suggest you create a separate database user -- in our examples `DevChallenger
    hdbuserstore list DevChallenger
    ```
 
-   If you are not familiar with commands above or not clear where to find `your.hana.instance.host` and `port`, please check the tutorial ["Create a User, Tables and Import Data Using SAP HANA HDBSQL"](https://developers.sap.com/tutorials/hana-clients-hdbsql.html).
+   Verify it works.
+   ```Shell
+   hdbsql -j -U DevChallenger "SELECT Current_user FROM DUMMY;"
+   ```
+   > If you are not familiar with commands above or not clear where to find `your.hana.instance.host` and `port`, please check the tutorial ["Create a User, Tables and Import Data Using SAP HANA HDBSQL"](https://developers.sap.com/tutorials/hana-clients-hdbsql.html).
 
 ## Requirements
 
