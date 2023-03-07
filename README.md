@@ -1,20 +1,20 @@
 # SAP Community Developer Challenge: Exploratory Data Analysis with SAP HANA and Python
 
-This repository is the starting point for the SAP Community Code Challenge for Exploratory Data Analysis (see [SAP Community Application Development thread](...) and [corresponding blog post](...)). 
+This repository is a starting point of the **SAP Community Code Challenge for Exploratory Data Analysis** (on March 8th see SAP Community Application Development thread and a corresponding blog post).
 
-The goal for this month's Developer Challenge is to help you get started with fundamentals of the [Python machine learning client for SAP HANA](https://help.sap.com/doc/cd94b08fe2e041c2ba778374572ddba9/2022_4_QRC/en-US/hana_ml.html).
+The goal for this month's Developer Challenge is to help you getting started with fundamentals of the [Python machine learning client for SAP HANA](https://help.sap.com/doc/cd94b08fe2e041c2ba778374572ddba9/2022_4_QRC/en-US/hana_ml.html): DataFrames and EDA Visualizations.
 
 ## Participation
 
 In order to complete each of the challenges, you need to:
 
 1. Look into the [Challenges](challenges.md) to see what the challenge is each week.
-2. Depending on the challenge, you may need to submit information on the [SAP Community Application Development thread](https://groups.community.sap.com/t5/application-development/sap-community-code-challenge-let-s-set-sail-for-cloud-native/td-p/5748).
-3. You can join the challenge and submit your solutions during any time, but you need to complete previous weeks if not done yet.
+2. Submit your solution to the [SAP Community Application Development thread](https://groups.community.sap.com/t5/application-development/sap-community-code-challenge-let-s-set-sail-for-cloud-native/td-p/5748).
+3. You can join the challenge and submit your solutions during any time of the month of March of 2023, but you need to complete challenges from previous weeks, if not done yet.
 
 ## Setup for the challenge
 
-To be able to take part in this challenge, it's essential that you complete the following steps to satisfy [requirements](#requirements):
+To be able to participate in this challenge, it's essential that you complete the following steps to satisfy [requirements](#requirements):
 
 ### Software setup
 1. [Setup your SAP HANA database in SAP HANA Cloud trial](https://developers.sap.com/group.hana-cloud-get-started-1-trial.html). 
@@ -82,7 +82,7 @@ No known issues.
 
 ## How to obtain support
 
-[Create an issue]() in this repository if you find a bug or have questions about the content.
+[Create an issue](https://github.com/SAP-samples/sap-community-developer-challenge-eda-hana/issues) in this repository, if you find a bug or have questions about the content.
 
 For additional support, [ask a question in SAP Community](https://answers.sap.com/questions/ask.html?primaryTagId=73554900100700000996).
 
