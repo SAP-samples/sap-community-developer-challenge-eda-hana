@@ -9,7 +9,7 @@ The goal for this month's Developer Challenge is to help you getting started wit
 In order to complete each of the challenges, you need to:
 
 1. Look into the [Challenges](challenges.md) to see what the challenge is each week.
-2. Submit your solution to the [SAP Community Application Development thread](https://groups.community.sap.com/t5/application-development/sap-community-code-challenge-let-s-set-sail-for-cloud-native/td-p/5748).
+2. Submit your solution to the corresponding thread in [SAP Community Application Development discussion](https://groups.community.sap.com/t5/forums/tagdetailpage/tag-cloud-grouping/message/tag-cloud-style/recent/message-scope/core-node/board-id/application-developmentforum-board/user-scope/all/tag-scope/single/tag-id/3477/timerange/all/tag-visibility-scope/public).
 3. You can join the challenge and submit your solutions during any time of the month of March of 2023, but you need to complete challenges from previous weeks, if not done yet.
 
 ## Setup for the challenge
