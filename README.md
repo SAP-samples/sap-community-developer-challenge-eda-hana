@@ -1,6 +1,6 @@
 # SAP Community Developer Challenge: Exploratory Data Analysis with SAP HANA and Python
 
-This repository is a starting point of the **SAP Community Code Challenge for Exploratory Data Analysis** (on March 8th see a corresponding blog post).
+This repository is a starting point of the **SAP Community Code Challenge for Exploratory Data Analysis** (see [the corresponding blog post](https://blogs.sap.com/2023/03/08/sap-community-developer-challenge-eda-with-sap-hana-and-python/)).
 
 The goal for this month's Developer Challenge is to help you getting started with fundamentals of the [Python machine learning client for SAP HANA](https://help.sap.com/doc/cd94b08fe2e041c2ba778374572ddba9/2022_4_QRC/en-US/hana_ml.html): DataFrames and EDA Visualizations.
 
@@ -42,8 +42,8 @@ We suggest you create a separate database user -- in our examples `DevChallenger
    ```
 
 2. On your client machine add that user to the SAP HANA Client's secure store.
-   ```shell
-   hdbuserstore -i Set DevChallenger <your.hana.instance.host:port> DevChallenger
+   ```Shell
+   hdbuserstore -i Set DevChallenger <your.hana.instance.host>:<port> DevChallenger
    hdbuserstore list DevChallenger
    ```
 
