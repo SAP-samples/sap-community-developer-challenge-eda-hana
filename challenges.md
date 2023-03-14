@@ -22,4 +22,14 @@ Execute that simple Jupyter notebook to verify the setup works and you can conne
 
 Share the result (as described above) in the thread [Submissions for "EDA with SAP HANA" developer challenge: Week 1 - Setup](https://groups.community.sap.com/t5/application-development/submissions-for-quot-eda-with-sap-hana-quot-developer-challenge/m-p/223607/highlight/true#M1109)
 
-## Content for the Week 2 will come on 2023-03-15
+## Week 2 (starts on 2023-03-15)
+
+This week's challenge is about getting understanding of [HANA DataFrames](https://help.sap.com/doc/cd94b08fe2e041c2ba778374572ddba9/2022_4_QRC/en-US/hana_ml.html#sap-hana-dataframe) in the `hana_ml` package, how they are different from calling SQL using a plain [SAP HANA Client's Python Driver](https://help.sap.com/docs/SAP_HANA_CLIENT/f1b440ded6144a54ada97ff95dac7adf/f3b8fabf34324302b123297cdbe710f0.html), and how HANA DataFrames work with [Pandas DataFrames](https://pandas.pydata.org/docs/getting_started/intro_tutorials/01_table_oriented.html#pandas-data-table-representation)! 
+
+You can find [`week2.ipynb`](notebooks/challenges/week2.ipynb) Jupyter notebook file in [`notebooks/challenges`](notebooks/challenges/) of this repo.
+
+Execute that Jupyter notebook after fixing a few errors in the code in it.
+
+Share the result (as described above) in the thread [Submissions for "EDA with SAP HANA" developer challenge: Week 2 - DataFrames](https://groups.community.sap.com/t5/application-development/submissions-for-quot-eda-with-sap-hana-quot-developer-challenge/m-p/224446/highlight/true#M1129)
+
+## Content for the Week 3 will come on 2023-03-22
