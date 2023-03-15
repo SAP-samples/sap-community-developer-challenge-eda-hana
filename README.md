@@ -71,8 +71,9 @@ You can fork or clone this repository.
 There is quite a lot to digest when working in the world of Data Science. If you need an introduction, then you should check out [Diving into the HANA DataFrame: Python Integration – Part 1](https://blogs.sap.com/2018/12/17/diving-into-the-hana-dataframe-python-integration-part-1/).
 
 These resources may also be helpful for a broader overview of capabilities of the Python machine learning client for SAP HANA:
-* Devtoerfest 2022 session ["Build your Machine Learning Scenario for your SAP HANA Cloud application from Python"](https://www.youtube.com/watch?v=CX38-95uBtc&t=138s&ab_channel=SAPDevelopers)
+* Devtoberfest 2022 session ["Build your Machine Learning Scenario for your SAP HANA Cloud application from Python"](https://www.youtube.com/watch?v=CX38-95uBtc&t=138s&ab_channel=SAPDevelopers)
 * SAP TechEd 2020 session ["Translytical Data Processing with SAP HANA Cloud"](https://youtu.be/fSiVmL4S00w)
+* Devtoberfest 2022 session ["Machine Learning engines embedded in SAP Data Warehouse Cloud (SAP Datasphere)"](https://www.youtube.com/live/xJx37aX1qds?t=270)
 
 ## Known Issues
 
