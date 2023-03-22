@@ -32,4 +32,18 @@ Execute that Jupyter notebook after fixing a few errors in the code in it.
 
 Share the result (as described above) in the thread [Submissions for "EDA with SAP HANA" developer challenge: Week 2 - DataFrames](https://groups.community.sap.com/t5/application-development/submissions-for-quot-eda-with-sap-hana-quot-developer-challenge/m-p/224446/highlight/true#M1129)
 
-## Content for the Week 3 will come on 2023-03-22
+## Week 3 (starts on 2023-03-22)
+
+This week's challenge is about getting understanding of data represented by [HANA DataFrames](https://help.sap.com/doc/cd94b08fe2e041c2ba778374572ddba9/2022_4_QRC/en-US/hana_ml.html#sap-hana-dataframe) in the `hana_ml` package! 
+
+You can find [`week3.ipynb`](notebooks/challenges/week3.ipynb) Jupyter notebook file in [`notebooks/challenges`](notebooks/challenges/) of this repo.
+
+Execute that Jupyter notebook after fixing all errors in its code cells.
+
+Share the result (as described above) in the thread [Submissions for "EDA with SAP HANA" developer challenge: Week 3 - Querying](https://groups.community.sap.com/t5/application-development/submissions-for-quot-eda-with-sap-hana-quot-developer-challenge/m-p/225900/highlight/true#M1181)
+
+## Content for the Week 4 will come on 2023-03-29
+
+
+
+
