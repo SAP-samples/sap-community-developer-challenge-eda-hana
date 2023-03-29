@@ -42,8 +42,15 @@ Execute that Jupyter notebook after fixing all errors in its code cells.
 
 Share the result (as described above) in the thread [Submissions for "EDA with SAP HANA" developer challenge: Week 3 - Querying](https://groups.community.sap.com/t5/application-development/submissions-for-quot-eda-with-sap-hana-quot-developer-challenge/m-p/225900/highlight/true#M1181)
 
-## Content for the Week 4 will come on 2023-03-29
+## Week 4 (starts on 2023-03-29)
 
+This week's challenge is about getting strong foundations in data visualization using Matplotlib used by both -- Pandas and [HANA DataFrames](https://help.sap.com/doc/cd94b08fe2e041c2ba778374572ddba9/2022_4_QRC/en-US/hana_ml.html#sap-hana-dataframe).
+
+You can find [`week4.ipynb`](notebooks/challenges/week4.ipynb) Jupyter notebook file in [`notebooks/challenges`](notebooks/challenges/) of this repo.
+
+Execute that Jupyter notebook after fixing all errors in its code cells.
+
+Share the result (as described above) in the thread [Submissions for "EDA with SAP HANA" developer challenge: Week 4 - DataViz](https://groups.community.sap.com/t5/application-development/submissions-for-quot-eda-with-sap-hana-quot-developer-challenge/m-p/227591/highlight/true#M1208)
 
 
 
