@@ -1,3 +1,5 @@
+[![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/sap-community-developer-challenge-eda-hana)](https://api.reuse.software/info/github.com/SAP-samples/sap-community-developer-challenge-eda-hana)
+
 # SAP Community Developer Challenge: Exploratory Data Analysis with SAP HANA and Python
 
 This repository is a starting point of the **SAP Community Code Challenge for Exploratory Data Analysis** (see [the corresponding blog post](https://blogs.sap.com/2023/03/08/sap-community-developer-challenge-eda-with-sap-hana-and-python/)).
